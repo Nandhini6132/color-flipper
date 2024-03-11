@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color-flipper/static/css/main.1ee73eda.css",
+    "main.js": "/color-flipper/static/js/main.3f49356b.js",
+    "index.html": "/color-flipper/index.html",
+    "main.1ee73eda.css.map": "/color-flipper/static/css/main.1ee73eda.css.map",
+    "main.3f49356b.js.map": "/color-flipper/static/js/main.3f49356b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ee73eda.css",
+    "static/js/main.3f49356b.js"
+  ]
+}
